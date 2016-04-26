@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: loveland CO
-datePublished: '2016-04-26T13:02:10.504Z'
-dateModified: '2016-04-26T12:50:36.884Z'
+datePublished: '2016-04-26T13:02:15.072Z'
+dateModified: '2016-04-26T12:50:02.685Z'
 title: ''
 author: []
 authors: []
@@ -23,4 +23,6 @@ _type: Article
 
 ---
 loveland CO
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e856e504-e410-42ee-8496-ad48b808c847.jpg)
+
+  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/145398a1-3674-4e08-beb0-37a2aba2a455.jpg)
