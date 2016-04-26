@@ -4,8 +4,15 @@
         <description><![CDATA[The Pondering Man/Woman Revolution]]></description>
         <link>http://madintrovertskills.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 13:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 13:03:08 GMT</lastBuildDate>
         <atom:link href="http://madintrovertskills.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92fa2fe-e40a-4737-9f0b-24596faecc68.jpg">]]></description>
+            <link>http://madintrovertskills.com/kristiansand-norway-wakeboarding/index.html</link>
+            <guid isPermaLink="false">52cf0aad-a2bd-456b-8ec0-d34839d1d45e</guid>
+            <pubDate>Tue, 26 Apr 2016 13:02:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb4c6929-fb19-4de8-b428-0dc1965e15bb.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18cedbdc-87ef-4249-ad5a-8869aa637c43.jpg">]]></description>
             <link>http://madintrovertskills.com/pondering-st-thomas/index.html</link>
             <guid isPermaLink="false">4b55aa2f-f4ec-4f8e-82a9-01e67d0056d4</guid>
-            <pubDate>Tue, 26 Apr 2016 13:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18d83216-1bcb-4732-b0e4-bb324cb15f13.jpg">]]></description>
-            <link>http://madintrovertskills.com/napa-valley/index.html</link>
-            <guid isPermaLink="false">c5a24b36-33c6-42a9-b83d-71ec3bd6ac12</guid>
             <pubDate>Tue, 26 Apr 2016 13:02:09 GMT</pubDate>
         </item>
     </channel>
