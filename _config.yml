@@ -1,0 +1,28 @@
+name: MadIntrovertSkills
+favicon: null
+layout_spectrum: 0.7648779912851751
+typography_spectrum: 0.8577015539631248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4789172988384962
+  lightness: 0.025706722401082516
+  saturation: 0.42704906524159014
+  rhythmicContrast: 0.6776376026682556
+purpose: []
