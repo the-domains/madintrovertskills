@@ -1,7 +1,7 @@
 name: MadIntrovertSkills
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.1195
+layout_spectrum: 0.09632875164970756
+typography_spectrum: 0.7902518881019205
 title: The Pondering Revolution
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#75ea3e'
-    - '#e6f1fe'
-    - '#1e1e1e'
-    - '#2b521e'
-  brandStrength: 0
-  lightness: 0.875
-  saturation: 1
-  rhythmicContrast: 0.75
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  brandStrength: 0.08514495310373604
+  lightness: 0.364511261228472
+  saturation: 0.9936479234602302
+  rhythmicContrast: 0.3769205375574529
 purpose: []
