@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Pondering Man/Woman Revolution]]></title>
-        <description><![CDATA[The Pondering Man/Woman Revolution]]></description>
+        <title><![CDATA[The Pondering Revolution]]></title>
+        <description><![CDATA[The Pondering Revolution]]></description>
         <link>http://madintrovertskills.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 13:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 15:57:44 GMT</lastBuildDate>
         <atom:link href="http://madintrovertskills.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/891e62a0-b2ec-4181-be11-cb8003de91f8.jpg">]]></description>
+            <link>http://madintrovertskills.com/cbe6587f-59e1-4a5f-a42f-5b4b01514de1/index.html</link>
+            <guid isPermaLink="false">cbe6587f-59e1-4a5f-a42f-5b4b01514de1</guid>
+            <pubDate>Sun, 31 Jul 2016 15:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36f2d54d-35d1-4502-8094-2070c2f48d92.jpg">]]></description>
+            <link>http://madintrovertskills.com/sit-down-ponder-oleno-state-park-2/index.html</link>
+            <guid isPermaLink="false">d2db955f-2c1f-4852-947e-4ea0da51b4c6</guid>
+            <pubDate>Tue, 26 Apr 2016 13:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/145398a1-3674-4e08-beb0-37a2aba2a455.jpg">]]></description>
+            <link>http://madintrovertskills.com/loveland-co/index.html</link>
+            <guid isPermaLink="false">ad4811e8-650b-4bdb-b87c-4ce3e557354a</guid>
+            <pubDate>Tue, 26 Apr 2016 13:02:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90dc7e90-c775-4176-96a1-234d7ab64ca7.jpg">]]></description>
@@ -54,27 +75,6 @@
             <link>http://madintrovertskills.com/danish-dock-walk/index.html</link>
             <guid isPermaLink="false">65fc4168-b26e-4c13-962b-39fb3b3d9ecd</guid>
             <pubDate>Tue, 26 Apr 2016 13:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31d076ca-1ed7-4f0e-9fbe-35e6d1077785.jpg">]]></description>
-            <link>http://madintrovertskills.com/oslo-park/index.html</link>
-            <guid isPermaLink="false">12aa7b16-0fac-47c9-b229-5d34fdafc693</guid>
-            <pubDate>Tue, 26 Apr 2016 13:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f23b0e6a-b7b4-4601-bc17-91557531670b.jpg">]]></description>
-            <link>http://madintrovertskills.com/ireland-princess-bride-cliff-climbing-location/index.html</link>
-            <guid isPermaLink="false">8b15ab58-1084-4f32-937d-28df518f476b</guid>
-            <pubDate>Tue, 26 Apr 2016 13:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c97bb014-e24b-48ed-883c-b3062f3d77f4.jpg">]]></description>
-            <link>http://madintrovertskills.com/flagler-beach/index.html</link>
-            <guid isPermaLink="false">9b0e4910-2cd2-44ab-be83-45ec07b8bd4f</guid>
-            <pubDate>Tue, 26 Apr 2016 13:02:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
